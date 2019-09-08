@@ -1,0 +1,22 @@
+{
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "'This is my first blockchain project'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ganache-cli": "^6.6.0",
+    "mocha": "^6.2.0",
+    "multer": "^1.4.2",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.35"
+  }
+}
